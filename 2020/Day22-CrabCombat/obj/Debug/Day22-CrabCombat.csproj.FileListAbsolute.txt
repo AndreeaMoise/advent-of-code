@@ -1,0 +1,7 @@
+C:\Projects\Advent of code\2020\Day22-CrabCombat\bin\Debug\Day22-CrabCombat.exe.config
+C:\Projects\Advent of code\2020\Day22-CrabCombat\bin\Debug\Day22-CrabCombat.exe
+C:\Projects\Advent of code\2020\Day22-CrabCombat\bin\Debug\Day22-CrabCombat.pdb
+C:\Projects\Advent of code\2020\Day22-CrabCombat\obj\Debug\Day22-CrabCombat.csproj.AssemblyReference.cache
+C:\Projects\Advent of code\2020\Day22-CrabCombat\obj\Debug\Day22-CrabCombat.csproj.CoreCompileInputs.cache
+C:\Projects\Advent of code\2020\Day22-CrabCombat\obj\Debug\Day22-CrabCombat.exe
+C:\Projects\Advent of code\2020\Day22-CrabCombat\obj\Debug\Day22-CrabCombat.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Advent of code\2021\Day8-SevenSegmentSearch\obj\Debug\Day8-SevenSegmentSearch.csproj.AssemblyReference.cache
+C:\Projects\Advent of code\2021\Day8-SevenSegmentSearch\obj\Debug\Day8-SevenSegmentSearch.csproj.CoreCompileInputs.cache
+C:\Projects\Advent of code\2021\Day8-SevenSegmentSearch\bin\Debug\Day8-SevenSegmentSearch.exe.config
+C:\Projects\Advent of code\2021\Day8-SevenSegmentSearch\bin\Debug\Day8-SevenSegmentSearch.exe
+C:\Projects\Advent of code\2021\Day8-SevenSegmentSearch\bin\Debug\Day8-SevenSegmentSearch.pdb
+C:\Projects\Advent of code\2021\Day8-SevenSegmentSearch\obj\Debug\Day8-SevenSegmentSearch.exe
+C:\Projects\Advent of code\2021\Day8-SevenSegmentSearch\obj\Debug\Day8-SevenSegmentSearch.pdb

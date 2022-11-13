@@ -1,0 +1,7 @@
+C:\Projects\Advent of code\2021\Day10-SyntaxScoring\bin\Debug\Day10-SyntaxScoring.exe.config
+C:\Projects\Advent of code\2021\Day10-SyntaxScoring\bin\Debug\Day10-SyntaxScoring.exe
+C:\Projects\Advent of code\2021\Day10-SyntaxScoring\bin\Debug\Day10-SyntaxScoring.pdb
+C:\Projects\Advent of code\2021\Day10-SyntaxScoring\obj\Debug\Day10-SyntaxScoring.csproj.AssemblyReference.cache
+C:\Projects\Advent of code\2021\Day10-SyntaxScoring\obj\Debug\Day10-SyntaxScoring.csproj.CoreCompileInputs.cache
+C:\Projects\Advent of code\2021\Day10-SyntaxScoring\obj\Debug\Day10-SyntaxScoring.exe
+C:\Projects\Advent of code\2021\Day10-SyntaxScoring\obj\Debug\Day10-SyntaxScoring.pdb

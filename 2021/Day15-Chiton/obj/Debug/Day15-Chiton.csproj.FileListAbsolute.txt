@@ -1,0 +1,7 @@
+C:\Projects\Advent of code\2021\Day15-Chiton\bin\Debug\Day15-Chiton.exe.config
+C:\Projects\Advent of code\2021\Day15-Chiton\bin\Debug\Day15-Chiton.exe
+C:\Projects\Advent of code\2021\Day15-Chiton\bin\Debug\Day15-Chiton.pdb
+C:\Projects\Advent of code\2021\Day15-Chiton\obj\Debug\Day15-Chiton.csproj.CoreCompileInputs.cache
+C:\Projects\Advent of code\2021\Day15-Chiton\obj\Debug\Day15-Chiton.exe
+C:\Projects\Advent of code\2021\Day15-Chiton\obj\Debug\Day15-Chiton.pdb
+C:\Projects\Advent of code\2021\Day15-Chiton\obj\Debug\Day15-Chiton.csproj.AssemblyReference.cache

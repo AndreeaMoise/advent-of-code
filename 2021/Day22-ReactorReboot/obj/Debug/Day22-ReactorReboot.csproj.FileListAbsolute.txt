@@ -1,0 +1,7 @@
+C:\Projects\Advent of code\2021\Day22-ReactorReboot\bin\Debug\Day22-ReactorReboot.exe.config
+C:\Projects\Advent of code\2021\Day22-ReactorReboot\bin\Debug\Day22-ReactorReboot.exe
+C:\Projects\Advent of code\2021\Day22-ReactorReboot\bin\Debug\Day22-ReactorReboot.pdb
+C:\Projects\Advent of code\2021\Day22-ReactorReboot\obj\Debug\Day22-ReactorReboot.csproj.AssemblyReference.cache
+C:\Projects\Advent of code\2021\Day22-ReactorReboot\obj\Debug\Day22-ReactorReboot.csproj.CoreCompileInputs.cache
+C:\Projects\Advent of code\2021\Day22-ReactorReboot\obj\Debug\Day22-ReactorReboot.exe
+C:\Projects\Advent of code\2021\Day22-ReactorReboot\obj\Debug\Day22-ReactorReboot.pdb

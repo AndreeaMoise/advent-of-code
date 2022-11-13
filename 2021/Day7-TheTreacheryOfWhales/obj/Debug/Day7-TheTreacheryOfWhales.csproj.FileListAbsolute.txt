@@ -1,0 +1,7 @@
+C:\Projects\Advent of code\2021\Day7-TheTreacheryOfWhales\bin\Debug\Day7-TheTreacheryOfWhales.exe.config
+C:\Projects\Advent of code\2021\Day7-TheTreacheryOfWhales\bin\Debug\Day7-TheTreacheryOfWhales.exe
+C:\Projects\Advent of code\2021\Day7-TheTreacheryOfWhales\bin\Debug\Day7-TheTreacheryOfWhales.pdb
+C:\Projects\Advent of code\2021\Day7-TheTreacheryOfWhales\obj\Debug\Day7-TheTreacheryOfWhales.csproj.AssemblyReference.cache
+C:\Projects\Advent of code\2021\Day7-TheTreacheryOfWhales\obj\Debug\Day7-TheTreacheryOfWhales.csproj.CoreCompileInputs.cache
+C:\Projects\Advent of code\2021\Day7-TheTreacheryOfWhales\obj\Debug\Day7-TheTreacheryOfWhales.exe
+C:\Projects\Advent of code\2021\Day7-TheTreacheryOfWhales\obj\Debug\Day7-TheTreacheryOfWhales.pdb

@@ -1,0 +1,10 @@
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\obj\Debug\Day20_JurrasicJigsaw.csproj.AssemblyReference.cache
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\obj\Debug\Day20_JurrasicJigsaw.csproj.CoreCompileInputs.cache
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\bin\Debug\Day20_JurrasicJigsaw.exe.config
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\bin\Debug\Day20_JurrasicJigsaw.exe
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\bin\Debug\Day20_JurrasicJigsaw.pdb
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\obj\Debug\Day20_JurrasicJigsaw.exe
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\obj\Debug\Day20_JurrasicJigsaw.pdb
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\bin\Debug\Utils.exe
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\bin\Debug\Utils.pdb
+C:\Projects\Advent of code\2020\20-JurrasicJigsaw\bin\Debug\Utils.exe.config
