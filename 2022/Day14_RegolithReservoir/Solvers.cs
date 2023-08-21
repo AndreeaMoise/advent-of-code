@@ -8,7 +8,7 @@ namespace Day14_RegolithReservoir
 {
     public static class Solvers
     {
-        public static int[][] Parse(List<string> entries)
+        public static Tuple<List<Tuple<int, int>>, int> Parse(List<string> entries)
         {
             var xmin = 0;
             var xmax = 0;
@@ -20,7 +20,6 @@ namespace Day14_RegolithReservoir
 
             var xprev = 0;
             var yprev = 0;
-            var c = 0;
             for (var i = 0; i < entries.Count; i++)
             {
                 var pathElements = entries[i].Split(separator, StringSplitOptions.RemoveEmptyEntries);
@@ -69,7 +68,6 @@ namespace Day14_RegolithReservoir
                     {
                         if (xprev == x)
                         {
-                            c++;
                             for (var k = Math.Min(y, yprev); k <= Math.Max(y, yprev); k++)
                             {
                                 var t = new Tuple<int, int>(x, k);
@@ -81,7 +79,6 @@ namespace Day14_RegolithReservoir
                         }
                         else if (yprev == y)
                         {
-                            c++;
                             for (var k = Math.Min(x, xprev); k <= Math.Max(x, xprev); k++)
                             {
                                 var t = new Tuple<int, int>(k, y);
@@ -97,18 +94,65 @@ namespace Day14_RegolithReservoir
                     
                 }
             }
-            // ymin = 0;
-            // ymax = ymax - ymin 
-            var cave = Utils.Int2DArray.InitializeWith(xmax + 1, ymax - ymin + 1);
-            foreach (var coordinate in rocks)
+
+
+            //var cave = Utils.Int2DArray.InitializeWith(xmax + 1, ymax - ymin + 1);
+            //foreach (var coordinate in rocks)
+            //{
+            //    var (x, y) = coordinate;
+            //    cave[x][y - ymin] = 1;
+            //}
+
+            //var p = cave[0].Length - ymax + 500 - 1;
+            //cave[0][p] = 3;
+            return new Tuple<List<Tuple<int, int>>, int>(rocks, xmax);
+        }
+
+        public static int Part1V2(List<Tuple<int, int>> rocks, int xmax)
+        { 
+            var ready = false;
+            var units = 0;
+            while (!ready)
             {
-                var (x, y) = coordinate;
-                cave[x][y - ymin] = 1;
+                var x = 0;
+                var y = 500;
+
+                var still = false;
+
+                while (!still)
+                {
+                    if (x + 1 > xmax)
+                    {
+                        still = true;
+                        ready = true;
+                    }
+                    // If straight down is air, move sand; rocks do not contain, it means air
+                    if (!rocks.Contains(new Tuple<int, int>(x + 1, y)))
+                    {
+                        x = x + 1;
+                    }
+                    // If diagonal down left is air, move sand
+                    else if (!rocks.Contains(new Tuple<int, int>(x + 1, y - 1)))
+                    {
+                        x = x + 1;
+                        y = y - 1;
+                    }
+                    // If diagonal down right is air, move sand
+                    else if (!rocks.Contains(new Tuple<int, int>(x + 1, y + 1)))
+                    {
+                        x = x + 1;
+                        y = y + 1;
+                    }
+                    else
+                    {
+                        rocks.Add(new Tuple<int, int>(x, y));
+                        still = true;
+                        units++;
+                    }
+                }
             }
 
-            var p = cave[0].Length - ymax + 500 - 1;
-            cave[0][p] = 3;
-            return cave;
+            return units;
         }
 
         public static int Part1(int[][] cave)
